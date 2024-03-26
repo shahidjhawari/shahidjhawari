@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Mahar Shahid Iqbal Jhawari</h1>
+<h1 align="center">Hi 👋, I'm Shahid Iqbal</h1>
 <h3 align="center">Full Stack Web Developer | Frontend & Backend Web Developer | Professional Web Designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahidjhawari&label=Profile%20views&color=0e75b6&style=flat" alt="shahidjhawari" /> </p>
