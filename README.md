@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Mahar Shahid Iqbal Jhawari</h1>
 <h3 align="center">Full Stack Web Developer | Frontend & Backend Web Developer | Professional Web Designer</h3>
 
-<img align="right" alt="nawab" width="300px" style="border-radius: 20px;" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fdeveloper&psig=AOvVaw3kx4orlg3WLZDwxbaMBjMq&ust=1711570449670000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOjf9vPekoUDFQAAAAAdAAAAABAJ">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahidjhawari&label=Profile%20views&color=0e75b6&style=flat" alt="shahidjhawari" /> </p>
 
 - 🔭 I’m currently working on [Full Stack Web Development](https://github.com/shahidjhawari/Alnafeh-Mobile-Shop---Online-Shopping-Website-App.git)
